@@ -1,7 +1,7 @@
 # Hi, I'm Tushar 👋
 
 ## About Me
-I'm a Software Quality Engineer making a dedicated transition into AI & Machine Learning development. With a background in Electronics & Communication Engineering and a career in QA automation, I bring systematic thinking and rigorous testing discipline to building intelligent systems.
+I'm an AI & ML Developer with a background in software engineering and test automation. With a background in Electronics & Communication Engineering and a career in QA automation, I bring systematic thinking and rigorous testing discipline to building intelligent systems.
 
 🌍 Based in Canada
 🎓 PGP in AI & ML — Great Lakes Executive Learning × UT Austin McCombs School of Business (2021)
