@@ -14,7 +14,7 @@ I'm an AI & ML Developer with a background in software engineering and test auto
 ## Projects
 
 ### 🔬 Focused Research Agent — Production-Grade Full-Stack Agentic AI
-A live-deployed, production-grade AI research system with a 6-layer clean architecture, 7-node LangGraph pipeline, FastAPI backend, Streamlit UI, and 175 tests across 8 test strategies.
+A live-deployed, production-grade AI research system with a 6-layer clean architecture, 7-node LangGraph pipeline, FastAPI backend, and Streamlit UI.
 
 Three research modes: Quick Research · Conversational Chat with memory · Full structured report with web search and images.
 
@@ -68,7 +68,6 @@ Academic projects from the UT Austin McCombs × Great Lakes PGP covering the ful
 ## Currently
 - 🏗️ Building and deploying production-grade AI systems
 - 🔬 Exploring multi-agent and human-in-the-loop LangGraph patterns
-- 📚 Researching online Master's programs in AI/ML
 - 🏆 Active on Kaggle: [kaggle.com/tusharkhoche](https://www.kaggle.com/tusharkhoche)
 
 ---
