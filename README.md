@@ -33,15 +33,6 @@ Built with LangChain · Meta Llama 3.1 · ChromaDB · HuggingFace embeddings · 
 
 ---
 
-### 🧠 Mood Journal Agent — LangGraph Agentic AI
-A LangGraph StateGraph-based agentic AI system that analyzes journal entries, classifies sentiment, extracts themes, and persists reflection history across runs.
-
-Built with LangGraph · Groq API · LLaMA models · JSON persistence
-
-→ [View repo](https://github.com/tusharkhoche/mood_journal_agent)
-
----
-
 ### 📊 Machine Learning Projects — PGP Portfolio
 Academic projects from the UT Austin McCombs × Great Lakes PGP covering the full ML stack: Statistical Learning, Supervised & Unsupervised Learning, Ensemble Methods, Neural Networks, Computer Vision, and NLP.
 
