@@ -33,7 +33,7 @@ Built with LangChain · Meta Llama 3.1 · ChromaDB · HuggingFace embeddings · 
 
 ---
 
-🔹 Distracted Driver Monitoring (IEEE Published)
+### Distracted Driver Monitoring (IEEE Published)
 
 Real-time CV pipeline: CenterNet pose estimation + custom ResNet object detection, classifying 10 distraction categories dynamically.
 
