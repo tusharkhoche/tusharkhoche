@@ -33,6 +33,12 @@ Built with LangChain · Meta Llama 3.1 · ChromaDB · HuggingFace embeddings · 
 
 ---
 
+🔹 Distracted Driver Monitoring (IEEE Published)
+
+Real-time CV pipeline: CenterNet pose estimation + custom ResNet object detection, classifying 10 distraction categories dynamically.
+
+👉 https://ieeexplore.ieee.org/document/9791545
+
 ### 📊 Machine Learning Projects — PGP Portfolio
 Academic projects from the UT Austin McCombs × Great Lakes PGP covering the full ML stack: Statistical Learning, Supervised & Unsupervised Learning, Ensemble Methods, Neural Networks, Computer Vision, and NLP.
 
